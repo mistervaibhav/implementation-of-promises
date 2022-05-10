@@ -1,0 +1,23 @@
+{
+  "name": "clone-of-promises",
+  "version": "1.0.0",
+  "description": "A custom implementation of JavaScript Promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --noStackTrace"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mistervaibhav/clone-of-promises.git"
+  },
+  "keywords": [],
+  "author": "mistervaibhav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mistervaibhav/clone-of-promises/issues"
+  },
+  "homepage": "https://github.com/mistervaibhav/clone-of-promises#readme",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
+}
